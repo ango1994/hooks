@@ -1,1 +1,1 @@
-#Install hook
+# Hooks with Husky
